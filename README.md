@@ -1,6 +1,6 @@
 Crediting visualizations and the gitflow example to the awesome [gitgraph.js](https://github.com/nicoespeon/gitgraph.js) Copyright (c) 2013 Nicolas CARLO and Fabien BERNARD
 
-Credited to my discussion with @gauravsinghania and @kirang20.
+Credited to my discussion with [Gaurav Singhania](https://github.com/gauravsinghania) and [Kiran G](https://github.com/kirang20)
 
 # Continuous Integration Improvements
 ## Git Branching Strategies
