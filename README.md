@@ -1,8 +1,17 @@
+# Credits
 Crediting visualizations and the gitflow example to the awesome [gitgraph.js](https://github.com/nicoespeon/gitgraph.js) Copyright (c) 2013 Nicolas CARLO and Fabien BERNARD
 
 Credited to my discussion with [Gaurav Singhania](https://github.com/gauravsinghania) and [Kiran G](https://github.com/kirang20)
 
-# Continuous Integration Improvements
+# How to use this 
+```shell
+git clone git@github.com:steotia/branching-strategies.git
+```
+Open the files ```branching-strategies/strategies/short-lived-release-branches/index.html``` and ```branching-strategies/strategies/gitflow/index.html``` and the respective js files to check out the gitgraph code.
+
+# Motivation
+The idea is to compare strategies for branching with the intention of using the concepts of build promotion. Of course, it can be argued that branching is bad but for the sake of this discussion, we are keeping that out of scope.
+
 ## Git Branching Strategies
 In a multi-team x multi-repo x monthly release scenario, we need a single accepted strategy which helps in:
 
